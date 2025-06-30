@@ -1,6 +1,6 @@
 # Venus Protocol Minter Contract
 
-A complete implementation of a Venus Protocol minting and redeeming contract based on the provided ABI.
+A complete implementation of a Venus Protocol minting and redeeming contract.
 
 ## 🏗️ Contract Overview
 
